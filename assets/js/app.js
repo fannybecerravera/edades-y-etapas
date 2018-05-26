@@ -8,3 +8,8 @@ if(age <= 3 ) {
     alert("¡You are at the stage gradeschooler!");
 }else if (age <= 17){
     alert("¡You are at the stage teenager!"); 
+}else if (age <= 21){
+    alert("¡You are at the stage young adult!");
+}else {
+    alert("¡You are at the stage adult!");
+}
